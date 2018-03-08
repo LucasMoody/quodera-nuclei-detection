@@ -1,0 +1,12 @@
+# run: conda env create --file environment.yml
+name: nuclei-detection
+dependencies:
+- python=3
+- matplotlib
+- pandas
+- numpy
+- tqdm
+- scikit-image
+- keras
+- tensorflow
+- jupyter
