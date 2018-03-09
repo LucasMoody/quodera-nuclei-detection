@@ -10,3 +10,6 @@ dependencies:
 - keras
 - tensorflow
 - jupyter
+- cython
+- pip:
+    - git+https://github.com/waleedka/coco.git#egg=pycocotools&subdirectory=PythonAPI
