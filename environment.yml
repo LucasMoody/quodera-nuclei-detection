@@ -11,5 +11,6 @@ dependencies:
 - tensorflow
 - jupyter
 - cython
+- opencv
 - pip:
     - git+https://github.com/waleedka/coco.git#egg=pycocotools&subdirectory=PythonAPI
